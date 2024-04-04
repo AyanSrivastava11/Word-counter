@@ -11,7 +11,7 @@ Word Counter is a simple web-based tool for counting words in a text input. It a
 
 ## Demo
 
-You can see a live demo of the Word Counter [here](link-to-demo).
+You can see a live demo of the Word Counter  https://ayansrivastava11.github.io/Word-counter/.
 
 ## Usage
 
